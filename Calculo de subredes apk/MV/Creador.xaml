@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculo_de_subredes.MV.Creador"
+             Title="Creador">
+    <VerticalStackLayout>
+        <Label Text="Programa para calcular subredes"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label Text="Creado por: Melchor Estrada José Luis."
+               VerticalOptions="Center"
+               HorizontalOptions="Center" />
+        <Label Text="Última actualización: 21/07/24 09:48 pm. V1.14.1"
+               VerticalOptions="Center"
+               HorizontalOptions="Center" />
+        <Label Text="Página de soporte: https://josprox.com/soporte/"
+               VerticalOptions="Center"
+               HorizontalOptions="Center" />
+        <Label Text="Este programa es SOLO para aprendizaje, su licencia es GPL y Creative Commons"
+               VerticalOptions="Center"
+               HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>

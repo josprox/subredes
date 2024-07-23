@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\xamarin\\Calculo de subredes beta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9132B57-9B06-4CF3-B05E-417089644ADF}|Calculo de subredes.csproj|c:\\users\\asus\\documents\\xamarin\\calculo de subredes beta\\calculo de subredes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A9132B57-9B06-4CF3-B05E-417089644ADF}|Calculo de subredes.csproj|solutionrelative:calculo de subredes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9132B57-9B06-4CF3-B05E-417089644ADF}|Calculo de subredes.csproj|c:\\users\\asus\\documents\\xamarin\\calculo de subredes beta\\calculo de subredes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9132B57-9B06-4CF3-B05E-417089644ADF}|Calculo de subredes.csproj|solutionrelative:calculo de subredes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9132B57-9B06-4CF3-B05E-417089644ADF}|Calculo de subredes.csproj|c:\\users\\asus\\documents\\xamarin\\calculo de subredes beta\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9132B57-9B06-4CF3-B05E-417089644ADF}|Calculo de subredes.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e3fb24c2-2e84-3146-a5f8-bc25bbc68f8a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculo de subredes",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\xamarin\\Calculo de subredes beta\\Calculo de subredes.csproj",
+              "RelativeDocumentMoniker": "Calculo de subredes.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\xamarin\\Calculo de subredes beta\\Calculo de subredes.csproj",
+              "RelativeToolTip": "Calculo de subredes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T05:26:19.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculo de subredes",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\xamarin\\Calculo de subredes beta\\Calculo de subredes.csproj",
+              "RelativeDocumentMoniker": "Calculo de subredes.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\xamarin\\Calculo de subredes beta\\Calculo de subredes.csproj",
+              "RelativeToolTip": "Calculo de subredes.csproj",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T05:07:07.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\xamarin\\Calculo de subredes beta\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\xamarin\\Calculo de subredes beta\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:00:46.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
