@@ -1,4 +1,4 @@
 Instalar lo necesario
     pip install pyinstaller
 Generar EXE
-    pyinstaller --clean --onefile --icon="C:\Users\ASUS\Desktop\subredes\josprox.ico" generador_subredes.py
+    pyinstaller --clean --onefile --icon="C:\Users\ASUS\Desktop\subredes\Subredes Python\josprox.ico" generador_subredes.py

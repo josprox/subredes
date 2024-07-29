@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculo_de_subredes.MV.Creador"
+             Title="Información de la aplicación.">
+    <ContentPage.Content>
+        <Grid>
+            <ScrollView>
+                <StackLayout Padding="8"
+                             Spacing="6">
+                    <Label Text="Información general."
+                           VerticalOptions="Center"
+                           FontSize="Title"
+                           HorizontalOptions="Center"
+                           Margin="12" />
+                    <Label Text="Programa para calcular subredes"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center" />
+                    <Label Text="Creado por: Melchor Estrada José Luis."
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center" />
+                    <Label Text="Última actualización: 25/07/24 01:00 pm. V1.14.1"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center" />
+                    <Label
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Página de soporte: " />
+                                <Span Text="https://josprox.com/soporte/"
+                                      TextDecorations="Underline"
+                                      TextColor="#71e5eb">
+                                    <Span.GestureRecognizers>
+                                        <TapGestureRecognizer Tapped="OnLabelTapped"
+                                                              NumberOfTapsRequired="1" />
+                                    </Span.GestureRecognizers>
+                                </Span>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                    <Label Text="Licencia."
+                           VerticalOptions="Center"
+                           FontSize="Subtitle"
+                           HorizontalOptions="Center"
+                           Margin="8" />
+                    <Label
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center">
+                        <Label.FormattedText>
+                            <FormattedString >
+                                <Span Text="Usted puede consultar los términos de licencia de esta aplicación en: " />
+                                <Span Text="https://github.com/josprox/subredes?tab=License-1-ov-file"
+                                      TextDecorations="Underline"
+                                      TextColor="#71e5eb">
+                                    <Span.GestureRecognizers>
+                                        <TapGestureRecognizer Tapped="OnLabelTapped"
+                                                              NumberOfTapsRequired="1" />
+                                    </Span.GestureRecognizers>
+                                </Span>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

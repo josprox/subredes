@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['C:\\Users\\ASUS\\Desktop\\subredes\\josprox.ico'],
+    icon=['C:\\Users\\ASUS\\Desktop\\subredes\\Subredes Python\\josprox.ico'],
 )

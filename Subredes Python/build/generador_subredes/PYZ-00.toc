@@ -1,4 +1,5 @@
-('C:\\Users\\ASUS\\Desktop\\subredes\\build\\generador_subredes\\PYZ-00.pyz',
+('C:\\Users\\ASUS\\Desktop\\Subredes\\Subredes '
+ 'Python\\build\\generador_subredes\\PYZ-00.pyz',
  [('_compat_pickle', 'C:\\Python311\\Lib\\_compat_pickle.py', 'PYMODULE'),
   ('_compression', 'C:\\Python311\\Lib\\_compression.py', 'PYMODULE'),
   ('_py_abc', 'C:\\Python311\\Lib\\_py_abc.py', 'PYMODULE'),

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculo_de_subredes.Modelo.Inicio"
+             Title="Generador de subredes">
+    <ContentPage.Content>
+        <Grid>
+            <ScrollView>
+                <StackLayout>
+                    <Label Text="Este sistema te permite generar toda la información de una IP"
+                           Margin="12"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center" 
+                           FontSize="Title"/>
+                    <Label Text="Ingrese la IP base (por ejemplo, 10.0.0.0):" />
+                    <Entry Placeholder="Ingrese la IP base (por ejemplo, 10.0.0.0):"
+                           x:Name="IpBaseEntry" />
+                    <Label Text="Ingrese el número de bits para la subred:" />
+                    <Entry Placeholder="Ingrese el número de bits para la subred:"
+                           x:Name="BitsSubredEntry" />
+                    <Label Text="Ingrese el número de subredes:" />
+                    <Entry Placeholder="Ingrese el número de subredes:"
+                           x:Name="NumSubredEntry" />
+                    <Label Text="¿Desea proporcionar el prefijo manualmente? (Y/N):" />
+                    <Entry Placeholder="(Y/N)"
+                           x:Name="PrefijoOpcionEntry"
+                           Text="N" />
+                    <Entry Placeholder="Ingrese el prefijo de red (por ejemplo, 24):"
+                           x:Name="PrefijoClaseEntry" />
+                    <Button Text="Generar información"
+                            Clicked="OnGenerarInformacionClicked"
+                            Margin="12" />
+                    <Label x:Name="ResultadosLabel"
+                           Margin="12" />
+                    <Button Text="Copiar información"
+                            Clicked="OnCopiarInformacionClicked"
+                            BackgroundColor="#a8d5eb"
+                            TextColor="#fff"
+                            CornerRadius="18"
+                            FontSize="Small"
+                            Margin="12"
+                            VerticalOptions="StartAndExpand"
+                            HorizontalOptions="CenterAndExpand" />
+                    <Button Text="Ir a Creador"
+                            Clicked="OnIrACreadorClicked"
+                            BackgroundColor="#eba8a7"
+                            TextColor="#fff"
+                            CornerRadius="18"
+                            FontSize="Small"
+                            Margin="12"
+                            VerticalOptions="StartAndExpand"
+                            HorizontalOptions="CenterAndExpand" />
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

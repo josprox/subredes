@@ -61,6 +61,7 @@ def calcular_subredes(ip_base, bits_subred, num_subred, prefijo_clase=None):
             "Máscara Predeterminada": str(red_base.netmask),
             "Clase": clase,
             f"Prefijo de Clase ({prefijo_proporcionado})": f"/{prefijo_clase}",
+            "Nuevo Prefijo de Máscara": f"/{bits_total}",  # Nuevo prefijo calculado
             "Total de Subredes": 2 ** bits_subred,
             "Tamaño de Subred": tamaño_subred - 2,
             "Subred Solicitada": num_subred,
@@ -81,27 +82,33 @@ def main():
     print("----------------------------------------------------------------------------------------")
     print("Programa para calcular subredes")
     print("Creado por: Melchor Estrada José Luis")
-    print("Última actualización: 21/07/24 09:48 pm. V1.14")
+    print("Última actualización: 28/07/24 06:00 pm. V1.14.2")
     print("Página de soporte: https://josprox.com/soporte/")
     print("Este programa es SOLO para aprendizaje, su licencia es GPL y Creative Commons")
     print("----------------------------------------------------------------------------------------")
     
-    # Solicitar valores al usuario
-    ip_base = input("Ingrese la IP base (por ejemplo, 10.0.0.0): ")
-    bits_subred = int(input("Ingrese el número de bits para la subred: "))
-    num_subred = int(input("Ingrese el número de subredes: "))
-    
-    prefijo_opcion = input("¿Desea proporcionar el prefijo manualmente? (Y/N): ").strip().upper()
-    if prefijo_opcion == "Y":
-        prefijo_clase = int(input("Ingrese el prefijo de red (por ejemplo, 24): "))
-    else:
-        prefijo_clase = None
+    while True:
+        # Solicitar valores al usuario
+        ip_base = input("Ingrese la IP base (por ejemplo, 10.0.0.0): ")
+        bits_subred = int(input("Ingrese el número de bits para la subred: "))
+        num_subred = int(input("Ingrese el número de subredes: "))
+        
+        prefijo_opcion = input("¿Desea proporcionar el prefijo manualmente? (Y/N): ").strip().upper()
+        if prefijo_opcion == "Y":
+            prefijo_clase = int(input("Ingrese el prefijo de red (por ejemplo, 24): "))
+        else:
+            prefijo_clase = None
 
-    resultados = calcular_subredes(ip_base, bits_subred, num_subred, prefijo_clase)
-    
-    # Mostrar los resultados
-    for clave, valor in resultados.items():
-        print(f"{clave}: {valor}")
+        resultados = calcular_subredes(ip_base, bits_subred, num_subred, prefijo_clase)
+        
+        # Mostrar los resultados
+        for clave, valor in resultados.items():
+            print(f"{clave}: {valor}")
+        
+        # Preguntar si desea ingresar otra red
+        otra_red = input("¿Desea ingresar otra red? (Y/N): ").strip().upper()
+        if otra_red == "N":
+            break
     
     # Pausa antes de cerrar
     input("Presione Enter para salir...")
