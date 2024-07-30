@@ -13,11 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculo de subredes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.14.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.14.2")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.14.3.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.14.3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculo de subredes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculo de subredes")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.14.2.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.14.3.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Android34.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Android21.0")]
 

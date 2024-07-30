@@ -6,20 +6,28 @@
     <ContentPage.Content>
         <Grid>
             <ScrollView>
-                <StackLayout>
+                <StackLayout Spacing="8"
+                             Padding="8"
+                             Margin="6">
                     <Label Text="Este sistema te permite generar toda la información de una IP"
                            Margin="12"
                            VerticalOptions="Center"
                            HorizontalOptions="Center" 
                            FontSize="Title"/>
-                    <Label Text="Ingrese la IP base (por ejemplo, 10.0.0.0):" />
-                    <Entry Placeholder="Ingrese la IP base (por ejemplo, 10.0.0.0):"
+                    <Label Text="Ingrese una IP base:"/>
+                    <Label Text="Por ejemplo, 10.0.0.0:"
+                           FontSize="Caption"/>
+                    <Entry Placeholder="10.0.0.0:"
                            x:Name="IpBaseEntry" />
                     <Label Text="Ingrese el número de bits para la subred:" />
-                    <Entry Placeholder="Ingrese el número de bits para la subred:"
+                    <Label Text="Por ejemplo, 10:"
+                           FontSize="Caption" />
+                    <Entry Placeholder="10"
                            x:Name="BitsSubredEntry" />
                     <Label Text="Ingrese el número de subredes:" />
-                    <Entry Placeholder="Ingrese el número de subredes:"
+                    <Label Text="Por ejemplo, 14:"
+                           FontSize="Caption" />
+                    <Entry Placeholder="14"
                            x:Name="NumSubredEntry" />
                     <Label Text="¿Desea proporcionar el prefijo manualmente? (Y/N):" />
                     <Entry Placeholder="(Y/N)"
@@ -41,7 +49,7 @@
                             Margin="12"
                             VerticalOptions="StartAndExpand"
                             HorizontalOptions="CenterAndExpand" />
-                    <Button Text="Ir a Creador"
+                    <Button Text="Detalles de la Aplicación"
                             Clicked="OnIrACreadorClicked"
                             BackgroundColor="#eba8a7"
                             TextColor="#fff"

@@ -58,158 +58,158 @@
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLargeTile.scale-400.png">
-      <PackagePath>subredesLargeTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLargeTile.scale-200.png">
-      <PackagePath>subredesLargeTile.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLargeTile.scale-150.png">
-      <PackagePath>subredesLargeTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLargeTile.scale-125.png">
-      <PackagePath>subredesLargeTile.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredes.ico">
+      <PackagePath>subredes.ico</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLargeTile.scale-100.png">
       <PackagePath>subredesLargeTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-400.png">
-      <PackagePath>subredesWideTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLargeTile.scale-125.png">
+      <PackagePath>subredesLargeTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-200.png">
-      <PackagePath>subredesWideTile.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLargeTile.scale-150.png">
+      <PackagePath>subredesLargeTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-150.png">
-      <PackagePath>subredesWideTile.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLargeTile.scale-200.png">
+      <PackagePath>subredesLargeTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-125.png">
-      <PackagePath>subredesWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-100.png">
-      <PackagePath>subredesWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-400.png">
-      <PackagePath>subredesMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-200.png">
-      <PackagePath>subredesMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-150.png">
-      <PackagePath>subredesMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-125.png">
-      <PackagePath>subredesMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-100.png">
-      <PackagePath>subredesMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-400.png">
-      <PackagePath>subredesSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-200.png">
-      <PackagePath>subredesSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-150.png">
-      <PackagePath>subredesSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-125.png">
-      <PackagePath>subredesSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-100.png">
-      <PackagePath>subredesSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-400.png">
-      <PackagePath>subredesStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-200.png">
-      <PackagePath>subredesStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-150.png">
-      <PackagePath>subredesStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-125.png">
-      <PackagePath>subredesStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-100.png">
-      <PackagePath>subredesStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>subredesLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>subredesLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>subredesLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>subredesLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLargeTile.scale-400.png">
+      <PackagePath>subredesLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>subredesLogo.altform-lightunplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>subredesLogo.altform-unplated_targetsize-256.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>subredesLogo.altform-lightunplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>subredesLogo.altform-unplated_targetsize-48.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>subredesLogo.altform-lightunplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>subredesLogo.altform-unplated_targetsize-32.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>subredesLogo.altform-lightunplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>subredesLogo.altform-unplated_targetsize-24.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>subredesLogo.altform-lightunplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-unplated_targetsize-16.png">
       <PackagePath>subredesLogo.altform-unplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-256.png">
-      <PackagePath>subredesLogo.targetsize-256.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>subredesLogo.altform-unplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-48.png">
-      <PackagePath>subredesLogo.targetsize-48.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>subredesLogo.altform-unplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-32.png">
-      <PackagePath>subredesLogo.targetsize-32.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>subredesLogo.altform-unplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-24.png">
-      <PackagePath>subredesLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-16.png">
-      <PackagePath>subredesLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.scale-400.png">
-      <PackagePath>subredesLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.scale-200.png">
-      <PackagePath>subredesLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.scale-150.png">
-      <PackagePath>subredesLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.scale-125.png">
-      <PackagePath>subredesLogo.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>subredesLogo.altform-unplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.scale-100.png">
       <PackagePath>subredesLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredes.ico">
-      <PackagePath>subredes.ico</PackagePath>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.scale-125.png">
+      <PackagePath>subredesLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.scale-150.png">
+      <PackagePath>subredesLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.scale-200.png">
+      <PackagePath>subredesLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.scale-400.png">
+      <PackagePath>subredesLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-16.png">
+      <PackagePath>subredesLogo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-24.png">
+      <PackagePath>subredesLogo.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-256.png">
+      <PackagePath>subredesLogo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-32.png">
+      <PackagePath>subredesLogo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesLogo.targetsize-48.png">
+      <PackagePath>subredesLogo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-100.png">
+      <PackagePath>subredesMediumTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-125.png">
+      <PackagePath>subredesMediumTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-150.png">
+      <PackagePath>subredesMediumTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-200.png">
+      <PackagePath>subredesMediumTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesMediumTile.scale-400.png">
+      <PackagePath>subredesMediumTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-100.png">
+      <PackagePath>subredesSmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-125.png">
+      <PackagePath>subredesSmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-150.png">
+      <PackagePath>subredesSmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-200.png">
+      <PackagePath>subredesSmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesSmallTile.scale-400.png">
+      <PackagePath>subredesSmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-100.png">
+      <PackagePath>subredesStoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-125.png">
+      <PackagePath>subredesStoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-150.png">
+      <PackagePath>subredesStoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-200.png">
+      <PackagePath>subredesStoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesStoreLogo.scale-400.png">
+      <PackagePath>subredesStoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-100.png">
+      <PackagePath>subredesWideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-125.png">
+      <PackagePath>subredesWideTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-150.png">
+      <PackagePath>subredesWideTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-200.png">
+      <PackagePath>subredesWideTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subredesWideTile.scale-400.png">
+      <PackagePath>subredesWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Calculo de subredes.deps.json">
       <PackagePath>Calculo de subredes.deps.json</PackagePath>
@@ -325,8 +325,14 @@
     <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.graphics.win2d\1.2.0\runtimes\win-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+    <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\R2R\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\R2R\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\R2R\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -424,6 +430,15 @@
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\R2R\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\R2R\OneSignalSDK.DotNet.Core.dll">
+      <PackagePath>OneSignalSDK.DotNet.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\R2R\OneSignalSDK.DotNet.dll">
+      <PackagePath>OneSignalSDK.DotNet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\R2R\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-windows10.0.19041.0\win10-x64\R2R\Calculo de subredes.dll">
       <PackagePath>Calculo de subredes.dll</PackagePath>
     </AppxPackagedFile>
@@ -438,36 +453,36 @@
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix">
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix">
       <Name>Microsoft.WindowsAppRuntime.1.5</Name>
-      <Version>5001.70.1338.0</Version>
+      <Version>5001.159.55.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.70.1338.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.159.55.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix">
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix">
       <Name>Microsoft.WindowsAppRuntime.1.5</Name>
-      <Version>5001.70.1338.0</Version>
+      <Version>5001.159.55.0</Version>
       <Architecture>win32</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.70.1338.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.159.55.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.5.msix">
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.5.msix">
       <Name>Microsoft.WindowsAppRuntime.1.5</Name>
-      <Version>5001.70.1338.0</Version>
+      <Version>5001.159.55.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.70.1338.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.159.55.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.5.msix">
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.5.msix">
       <Name>Microsoft.WindowsAppRuntime.1.5</Name>
-      <Version>5001.70.1338.0</Version>
+      <Version>5001.159.55.0</Version>
       <Architecture>arm64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.70.1338.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.159.55.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
   </ItemGroup>

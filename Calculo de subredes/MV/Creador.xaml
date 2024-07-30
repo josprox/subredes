@@ -19,48 +19,73 @@
                     <Label Text="Creado por: Melchor Estrada José Luis."
                            VerticalOptions="Center"
                            HorizontalOptions="Center" />
-                    <Label Text="Última actualización: 25/07/24 01:00 pm. V1.14.1"
+                    <Label Text="Esta aplicación NO RECOPILA información del usuario, los datos que insertes no serán almacenados en ningún lado, sin embargo, una ves instales esta apliación podrías recibir (si así lo deseas) notificaciones push de nuestros servicios (Red Joss), por lo tanto nuestros términos y servicios los encontrarás en nuestra web oficial."
                            VerticalOptions="Center"
                            HorizontalOptions="Center" />
-                    <Label
-                        VerticalOptions="Center"
-                        HorizontalOptions="Center">
-                        <Label.FormattedText>
-                            <FormattedString>
-                                <Span Text="Página de soporte: " />
-                                <Span Text="https://josprox.com/soporte/"
-                                      TextDecorations="Underline"
-                                      TextColor="#71e5eb">
-                                    <Span.GestureRecognizers>
-                                        <TapGestureRecognizer Tapped="OnLabelTapped"
-                                                              NumberOfTapsRequired="1" />
-                                    </Span.GestureRecognizers>
-                                </Span>
-                            </FormattedString>
-                        </Label.FormattedText>
-                    </Label>
+                    <Label Text="Soporte."
+                           VerticalOptions="Center"
+                           FontSize="Subtitle"
+                           HorizontalOptions="Center"
+                           Margin="8" />
+                    <Button Text="Página de soporte"
+                            VerticalOptions="Center"
+                            HorizontalOptions="Center"
+                            TextColor="#fff"
+                            Clicked="OnButtonClicked"
+                            CommandParameter="https://josprox.com/soporte/" />
                     <Label Text="Licencia."
                            VerticalOptions="Center"
                            FontSize="Subtitle"
                            HorizontalOptions="Center"
                            Margin="8" />
-                    <Label
-                        VerticalOptions="Center"
-                        HorizontalOptions="Center">
-                        <Label.FormattedText>
-                            <FormattedString >
-                                <Span Text="Usted puede consultar los términos de licencia de esta aplicación en: " />
-                                <Span Text="https://github.com/josprox/subredes?tab=License-1-ov-file"
-                                      TextDecorations="Underline"
-                                      TextColor="#71e5eb">
-                                    <Span.GestureRecognizers>
-                                        <TapGestureRecognizer Tapped="OnLabelTapped"
-                                                              NumberOfTapsRequired="1" />
-                                    </Span.GestureRecognizers>
-                                </Span>
-                            </FormattedString>
-                        </Label.FormattedText>
-                    </Label>
+                    <Button Text="Términos de licencia"
+                            VerticalOptions="Center"
+                            HorizontalOptions="Center"
+                            TextColor="#fff"
+                            Clicked="OnButtonClicked"
+                            CommandParameter="https://github.com/josprox/subredes?tab=License-1-ov-file" />
+                    <Label Text="Web del creador."
+                           VerticalOptions="Center"
+                           FontSize="Subtitle"
+                           HorizontalOptions="Center"
+                           Margin="8" />
+                    <Button Text="Ir a JOSPROX | Joss Estrada"
+                            VerticalOptions="Center"
+                            HorizontalOptions="Center"
+                            TextColor="#fff"
+                            Clicked="OnButtonClicked"
+                            CommandParameter="https://josprox.com/" />
+                    <Label Text="Aviso importante."
+                           TextColor="Red"
+                           VerticalOptions="CenterAndExpand"
+                           HorizontalOptions="CenterAndExpand"
+                           FontSize="Subtitle"/>
+                    <Label Text="A continuación, se muestran la política de privacidad al igual que los términos y condiciones de todas las aplicaciones existentes que se encuentran en la red 'Joss Red', esta aplicación no tiene compras internas ni se almacenan datos, entonces la aplicación solo funciona internamente y TU ERES RESPONSABLE de controlar estos datos."
+                           VerticalOptions="CenterAndExpand"
+                           HorizontalOptions="CenterAndExpand"
+                           FontSize="Caption"/>
+                    <Label Text="Política de privacidad."
+                           VerticalOptions="Center"
+                           FontSize="Subtitle"
+                           HorizontalOptions="Center"
+                           Margin="8" />
+                    <Button Text="Política de privacidad"
+                            VerticalOptions="Center"
+                            HorizontalOptions="Center"
+                            TextColor="#fff"
+                            Clicked="OnButtonClicked"
+                            CommandParameter="https://josprox.com/privacidad/" />
+                    <Label Text="Términos y condiciones."
+                           VerticalOptions="Center"
+                           FontSize="Subtitle"
+                           HorizontalOptions="Center"
+                           Margin="8" />
+                    <Button Text="Términos y condiciones"
+                            VerticalOptions="Center"
+                            HorizontalOptions="Center"
+                            TextColor="#fff"
+                            Clicked="OnButtonClicked"
+                            CommandParameter="https://josprox.com/terminos-y-condiciones/" />
                 </StackLayout>
             </ScrollView>
         </Grid>

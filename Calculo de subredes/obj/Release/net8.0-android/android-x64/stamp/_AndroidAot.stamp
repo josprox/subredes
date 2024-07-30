@@ -1,5 +1,7 @@
 obj\Release\net8.0-android\android-x64\aot\_Microsoft.Android.Resource.Designer.dll.so
 obj\Release\net8.0-android\android-x64\aot\Calculo de subredes.dll.so
+obj\Release\net8.0-android\android-x64\aot\CommunityToolkit.Maui.dll.so
+obj\Release\net8.0-android\android-x64\aot\CommunityToolkit.Maui.Core.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Extensions.Configuration.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Extensions.Configuration.Abstractions.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Extensions.DependencyInjection.dll.so
@@ -8,11 +10,19 @@ obj\Release\net8.0-android\android-x64\aot\Microsoft.Extensions.Logging.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Extensions.Logging.Abstractions.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Extensions.Options.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Extensions.Primitives.dll.so
+obj\Release\net8.0-android\android-x64\aot\Microsoft.Maui.Controls.Compatibility.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Maui.Controls.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Maui.Controls.Xaml.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Maui.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Maui.Essentials.dll.so
 obj\Release\net8.0-android\android-x64\aot\Microsoft.Maui.Graphics.dll.so
+obj\Release\net8.0-android\android-x64\aot\OneSignalSDK.DotNet.Android.Core.Binding.dll.so
+obj\Release\net8.0-android\android-x64\aot\OneSignalSDK.DotNet.Android.InAppMessages.Binding.dll.so
+obj\Release\net8.0-android\android-x64\aot\OneSignalSDK.DotNet.Android.Location.Binding.dll.so
+obj\Release\net8.0-android\android-x64\aot\OneSignalSDK.DotNet.Android.Notifications.Binding.dll.so
+obj\Release\net8.0-android\android-x64\aot\OneSignalSDK.DotNet.Android.dll.so
+obj\Release\net8.0-android\android-x64\aot\OneSignalSDK.DotNet.Core.dll.so
+obj\Release\net8.0-android\android-x64\aot\OneSignalSDK.DotNet.dll.so
 obj\Release\net8.0-android\android-x64\aot\Xamarin.AndroidX.Activity.dll.so
 obj\Release\net8.0-android\android-x64\aot\Xamarin.AndroidX.AppCompat.dll.so
 obj\Release\net8.0-android\android-x64\aot\Xamarin.AndroidX.AppCompat.AppCompatResources.dll.so
@@ -42,6 +52,7 @@ obj\Release\net8.0-android\android-x64\aot\Xamarin.Google.Android.Material.dll.s
 obj\Release\net8.0-android\android-x64\aot\Xamarin.Kotlin.StdLib.dll.so
 obj\Release\net8.0-android\android-x64\aot\Xamarin.KotlinX.Coroutines.Core.Jvm.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Collections.Concurrent.dll.so
+obj\Release\net8.0-android\android-x64\aot\System.Collections.Immutable.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Collections.NonGeneric.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Collections.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.ComponentModel.Primitives.dll.so
@@ -49,12 +60,14 @@ obj\Release\net8.0-android\android-x64\aot\System.ComponentModel.TypeConverter.d
 obj\Release\net8.0-android\android-x64\aot\System.ComponentModel.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Console.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Diagnostics.DiagnosticSource.dll.so
+obj\Release\net8.0-android\android-x64\aot\System.Diagnostics.TraceSource.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.IO.Compression.Brotli.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.IO.Compression.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Linq.Expressions.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Linq.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Memory.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Net.Http.dll.so
+obj\Release\net8.0-android\android-x64\aot\System.Net.Mail.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Net.Primitives.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Net.Requests.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Numerics.Vectors.dll.so
@@ -68,8 +81,10 @@ obj\Release\net8.0-android\android-x64\aot\System.Security.Cryptography.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Text.RegularExpressions.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Threading.Thread.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Threading.dll.so
+obj\Release\net8.0-android\android-x64\aot\System.Web.HttpUtility.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.Xml.ReaderWriter.dll.so
 obj\Release\net8.0-android\android-x64\aot\System.dll.so
+obj\Release\net8.0-android\android-x64\aot\netstandard.dll.so
 obj\Release\net8.0-android\android-x64\aot\Java.Interop.dll.so
 obj\Release\net8.0-android\android-x64\aot\Mono.Android.Runtime.dll.so
 obj\Release\net8.0-android\android-x64\aot\Mono.Android.dll.so

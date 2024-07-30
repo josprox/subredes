@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculo_de_subredes.Web_conect"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <AbsoluteLayout VerticalOptions="FillAndExpand"
+                        HorizontalOptions="FillAndExpand">
+            <WebView x:Name="webView"
+                     VerticalOptions="FillAndExpand"
+                     HorizontalOptions="FillAndExpand"
+                     AbsoluteLayout.LayoutBounds="0,0,1,1"
+                     AbsoluteLayout.LayoutFlags="All" />
+            <Button Text="Regresar"
+                    BackgroundColor="#60db96"
+                    TextColor="White"
+                    CornerRadius="30"
+                    WidthRequest="120"
+                    HeightRequest="60"
+                    VerticalOptions="End"
+                    HorizontalOptions="End"
+                    AbsoluteLayout.LayoutBounds="1,1,AutoSize,AutoSize"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"
+                    Clicked="OnBackButtonClicked"
+                    Margin="12"/>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

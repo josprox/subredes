@@ -175,3 +175,8 @@ C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Debug\net8.0-windows10.0
 C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\OneSignalSDK.DotNet.Core.dll
+C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\OneSignalSDK.DotNet.dll
+C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll

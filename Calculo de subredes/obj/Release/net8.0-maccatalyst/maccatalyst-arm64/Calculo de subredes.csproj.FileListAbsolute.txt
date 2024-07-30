@@ -279,3 +279,7 @@ C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-maccataly
 C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-maccatalyst\maccatalyst-arm64\Calculo de subredes.pdb
 C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-maccatalyst\maccatalyst-arm64\Calculo de subredes.genruntimeconfig.cache
 C:\Users\ASUS\Documents\xamarin\Calculo de subredes\obj\Release\net8.0-maccatalyst\maccatalyst-arm64\ref\Calculo de subredes.dll
+C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Release\net8.0-maccatalyst\maccatalyst-arm64\OneSignalSDK.DotNet.Core.dll
+C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Release\net8.0-maccatalyst\maccatalyst-arm64\OneSignalSDK.DotNet.dll
+C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Release\net8.0-maccatalyst\maccatalyst-arm64\CommunityToolkit.Maui.dll
+C:\Users\ASUS\Documents\xamarin\Calculo de subredes\bin\Release\net8.0-maccatalyst\maccatalyst-arm64\CommunityToolkit.Maui.Core.dll

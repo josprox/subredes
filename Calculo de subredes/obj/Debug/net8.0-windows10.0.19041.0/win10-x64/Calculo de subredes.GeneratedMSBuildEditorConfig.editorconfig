@@ -42,6 +42,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Calculo_de_subredes.MV.Ini
 build_metadata.AdditionalFiles.TargetPath = MV\Inicio.xaml
 build_metadata.AdditionalFiles.RelativePath = MV\Inicio.xaml
 
+[C:/Users/ASUS/Documents/xamarin/Calculo de subredes/MV/Web_conect.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Calculo_de_subredes.MV.Web_conect.xaml
+build_metadata.AdditionalFiles.TargetPath = MV\Web_conect.xaml
+build_metadata.AdditionalFiles.RelativePath = MV\Web_conect.xaml
+
 [C:/Users/ASUS/Documents/xamarin/Calculo de subredes/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculo_de_subredes.Resources.Styles.Colors.xaml

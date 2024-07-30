@@ -1,0 +1,1 @@
+<resources><string name="location_permission_missing_message">Looks like this app doesn\'t have location services configured. Please see OneSignal docs for more information.</string><string name="location_permission_missing_title">App Missing Permission</string></resources>
